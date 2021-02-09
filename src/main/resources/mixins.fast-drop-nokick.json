@@ -1,0 +1,8 @@
+{
+    "minVersion": "0.8",
+    "refmap": "mixins.fast-drop-nokick.refmap.json",
+    "package": "rmc.mixins.fast_drop_nokick",
+    "mixins": [
+        "ServerPlayNetHandlerMixin"
+    ]
+}
